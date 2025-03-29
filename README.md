@@ -5,7 +5,7 @@ This repository contains the frontend implementation for the simple form project
 
 - [Deployed Frontend link](https://task31-frontend-six.vercel.app/)
 - [ Deployed Backend link](https://task30backend-x5ig.vercel.app/)
-- [Github Frontend link](https://github.com/priyankastack/task-30)
+- [Github Frontend link](https://github.com/priyankastack/task31-frontend)
 - [Github-Backend link](https://github.com/priyankastack/task30backend)
 
 ## Features
