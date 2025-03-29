@@ -3,7 +3,7 @@
 
 This repository contains the frontend implementation for the simple form project. It provides a user-friendly interface for form submission and authentication using JWT.
 
-- [Deployed Frontend link](https://task-30-dgth.vercel.app)
+- [Deployed Frontend link](https://task31-frontend-six.vercel.app/)
 - [ Deployed Backend link](https://task30backend-x5ig.vercel.app/)
 - [Github Frontend link](https://github.com/priyankastack/task-30)
 - [Github-Backend link](https://github.com/priyankastack/task30backend)
