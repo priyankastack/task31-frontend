@@ -1,12 +1,32 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Simple Form Frontend
 
-Currently, two official plugins are available:
+This repository contains the frontend implementation for the simple form project. It provides a user-friendly interface for form submission and authentication using JWT.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- [Deployed Frontend link](https://task31-frontend-six.vercel.app/)
+- [Deployed Backend link](https://task31-backend-lime.vercel.app//)
+- [Github Frontend link](https://github.com/priyankastack/task31-frontend)
+- [Github-Backend link](https://github.com/priyankastack/task31-backend)
 
-## Expanding the ESLint configuration
+## Features
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+User registration and login
+
+JWT-based authentication
+
+Form submission UI
+
+Secure access to protected pages
+
+API integration with the backend
+
+## Technologies Used
+
+React.js
+
+Tailwind CSS (or standard CSS/Bootstrap)
+
+Axios for API requests
+
+React Router for navigation
+
